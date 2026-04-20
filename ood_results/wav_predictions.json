@@ -1,0 +1,2162 @@
+{
+  "sys27a83-utt1f5c9cd.wav": {
+    "predicted_mos": 2.706963300704956,
+    "true_mos": 3.3125
+  },
+  "sys27a83-uttd59b5e5.wav": {
+    "predicted_mos": 2.6011621952056885,
+    "true_mos": 4.0
+  },
+  "sys27a83-uttff359a7.wav": {
+    "predicted_mos": 2.7321085929870605,
+    "true_mos": 2.7272727489471436
+  },
+  "sys27a83-utte2ddfa5.wav": {
+    "predicted_mos": 2.3203935623168945,
+    "true_mos": 3.846153736114502
+  },
+  "sys27a83-utt8de7629.wav": {
+    "predicted_mos": 2.452446460723877,
+    "true_mos": 4.0
+  },
+  "sys27a83-uttd52dc47.wav": {
+    "predicted_mos": 2.4949378967285156,
+    "true_mos": 3.642857074737549
+  },
+  "sys27a83-utte3f2c78.wav": {
+    "predicted_mos": 2.527956485748291,
+    "true_mos": 3.5714285373687744
+  },
+  "sys27a83-utt4151346.wav": {
+    "predicted_mos": 2.6393349170684814,
+    "true_mos": 3.4666666984558105
+  },
+  "sys27a83-utt1b7714f.wav": {
+    "predicted_mos": 3.021454095840454,
+    "true_mos": 4.0
+  },
+  "sys27a83-utt1ed3679.wav": {
+    "predicted_mos": 2.3240251541137695,
+    "true_mos": 3.142857074737549
+  },
+  "sys27a83-utt6e7b425.wav": {
+    "predicted_mos": 2.295713186264038,
+    "true_mos": 3.3333332538604736
+  },
+  "sys27a83-utt255f8a5.wav": {
+    "predicted_mos": 2.636390209197998,
+    "true_mos": 3.6666667461395264
+  },
+  "sys27a83-utt404e159.wav": {
+    "predicted_mos": 2.8609209060668945,
+    "true_mos": 4.307692527770996
+  },
+  "sys27a83-utt6785e67.wav": {
+    "predicted_mos": 2.841245651245117,
+    "true_mos": 3.200000047683716
+  },
+  "sys27a83-uttf56f3f0.wav": {
+    "predicted_mos": 2.3954453468322754,
+    "true_mos": 3.5
+  },
+  "sys27a83-utt8bd9a4d.wav": {
+    "predicted_mos": 2.4183034896850586,
+    "true_mos": 4.0
+  },
+  "sys27a83-utt61b8e67.wav": {
+    "predicted_mos": 2.714176654815674,
+    "true_mos": 4.083333492279053
+  },
+  "sys27a83-uttb9d5863.wav": {
+    "predicted_mos": 2.870713233947754,
+    "true_mos": 4.07692289352417
+  },
+  "sys27a83-uttca6da26.wav": {
+    "predicted_mos": 2.477893590927124,
+    "true_mos": 3.470588207244873
+  },
+  "sys27a83-utta2bc7a0.wav": {
+    "predicted_mos": 2.598057746887207,
+    "true_mos": 3.4285714626312256
+  },
+  "sys27a83-utt97d453f.wav": {
+    "predicted_mos": 2.8072657585144043,
+    "true_mos": 3.6470587253570557
+  },
+  "sys27a83-uttc2375dd.wav": {
+    "predicted_mos": 2.1741394996643066,
+    "true_mos": 3.4666666984558105
+  },
+  "sys27a83-utt73613eb.wav": {
+    "predicted_mos": 2.6017513275146484,
+    "true_mos": 4.0
+  },
+  "sys27a83-utt63411c9.wav": {
+    "predicted_mos": 2.0531821250915527,
+    "true_mos": 3.700000047683716
+  },
+  "sys27a83-utt5344d8e.wav": {
+    "predicted_mos": 2.6666343212127686,
+    "true_mos": 3.642857074737549
+  },
+  "sys27a83-utta60b95f.wav": {
+    "predicted_mos": 2.692296028137207,
+    "true_mos": 3.307692289352417
+  },
+  "sys27a83-uttb20c45c.wav": {
+    "predicted_mos": 2.569943904876709,
+    "true_mos": 3.153846263885498
+  },
+  "sys27a83-uttd0de604.wav": {
+    "predicted_mos": 2.555817127227783,
+    "true_mos": 3.5
+  },
+  "sys27a83-uttec91449.wav": {
+    "predicted_mos": 2.392810821533203,
+    "true_mos": 4.0
+  },
+  "sys27a83-uttce4bec4.wav": {
+    "predicted_mos": 3.1825790405273438,
+    "true_mos": 4.416666507720947
+  },
+  "sys27a83-uttc6e029a.wav": {
+    "predicted_mos": 2.2516722679138184,
+    "true_mos": 3.4000000953674316
+  },
+  "sys27a83-uttd5fcbb0.wav": {
+    "predicted_mos": 2.627378463745117,
+    "true_mos": 4.125
+  },
+  "sys27a83-uttcda042b.wav": {
+    "predicted_mos": 2.688875198364258,
+    "true_mos": 3.5999999046325684
+  },
+  "sys27a83-utt8154b0b.wav": {
+    "predicted_mos": 2.3406944274902344,
+    "true_mos": 3.0
+  },
+  "sys27a83-utt7a7ecf5.wav": {
+    "predicted_mos": 2.562774658203125,
+    "true_mos": 3.461538553237915
+  },
+  "sys27a83-utt6b716b8.wav": {
+    "predicted_mos": 2.806569814682007,
+    "true_mos": 4.090909004211426
+  },
+  "sys27a83-uttc776f94.wav": {
+    "predicted_mos": 2.449981689453125,
+    "true_mos": 3.769230842590332
+  },
+  "sys27a83-utt70351bc.wav": {
+    "predicted_mos": 2.5333971977233887,
+    "true_mos": 3.7142856121063232
+  },
+  "sys27a83-uttdf9f3cf.wav": {
+    "predicted_mos": 2.633622884750366,
+    "true_mos": 3.2666666507720947
+  },
+  "sys27a83-utt6646e7a.wav": {
+    "predicted_mos": 2.5370988845825195,
+    "true_mos": 3.642857074737549
+  },
+  "sys27a83-utt0fd2a33.wav": {
+    "predicted_mos": 2.5996451377868652,
+    "true_mos": 3.5714285373687744
+  },
+  "sys27a83-utt978f8fa.wav": {
+    "predicted_mos": 2.3853278160095215,
+    "true_mos": 3.8333332538604736
+  },
+  "sys27a83-utt52110b6.wav": {
+    "predicted_mos": 2.6215388774871826,
+    "true_mos": 3.538461446762085
+  },
+  "sys27a83-uttda17b66.wav": {
+    "predicted_mos": 2.4387173652648926,
+    "true_mos": 3.866666555404663
+  },
+  "sys27a83-uttd24e5e8.wav": {
+    "predicted_mos": 2.1407692432403564,
+    "true_mos": 3.642857074737549
+  },
+  "sys27a83-utt29ecb41.wav": {
+    "predicted_mos": 2.5874202251434326,
+    "true_mos": 4.0714287757873535
+  },
+  "sys27a83-utt0a176de.wav": {
+    "predicted_mos": 2.6526713371276855,
+    "true_mos": 3.7333333492279053
+  },
+  "sys27a83-utt07490fd.wav": {
+    "predicted_mos": 2.184044122695923,
+    "true_mos": 3.5333333015441895
+  },
+  "sys27a83-utte107ae8.wav": {
+    "predicted_mos": 2.695403814315796,
+    "true_mos": 4.25
+  },
+  "sys27a83-utt37e0ebe.wav": {
+    "predicted_mos": 3.105787515640259,
+    "true_mos": 3.866666555404663
+  },
+  "sys27a83-uttcc23367.wav": {
+    "predicted_mos": 2.5468249320983887,
+    "true_mos": 3.615384578704834
+  },
+  "sys27a83-utt5ebca34.wav": {
+    "predicted_mos": 2.620730400085449,
+    "true_mos": 3.6875
+  },
+  "sys32bee-utt96fb480.wav": {
+    "predicted_mos": 1.3381521701812744,
+    "true_mos": 2.6666667461395264
+  },
+  "sys32bee-utt2de87a7.wav": {
+    "predicted_mos": 1.3527374267578125,
+    "true_mos": 3.384615421295166
+  },
+  "sys32bee-utt25040eb.wav": {
+    "predicted_mos": 1.311457633972168,
+    "true_mos": 2.799999952316284
+  },
+  "sys32bee-uttece7ce7.wav": {
+    "predicted_mos": 1.274784803390503,
+    "true_mos": 2.5714285373687744
+  },
+  "sys32bee-uttf36ac74.wav": {
+    "predicted_mos": 1.303834319114685,
+    "true_mos": 2.0
+  },
+  "sys32bee-uttd4840e2.wav": {
+    "predicted_mos": 1.3494677543640137,
+    "true_mos": 1.9333332777023315
+  },
+  "sys32bee-utt61299ac.wav": {
+    "predicted_mos": 1.2947158813476562,
+    "true_mos": 3.0
+  },
+  "sys32bee-utt2647e9f.wav": {
+    "predicted_mos": 1.3662091493606567,
+    "true_mos": 2.6666667461395264
+  },
+  "sys32bee-utt904ab69.wav": {
+    "predicted_mos": 1.4155677556991577,
+    "true_mos": 3.642857074737549
+  },
+  "sys32bee-uttd4510f5.wav": {
+    "predicted_mos": 1.3498907089233398,
+    "true_mos": 3.090909004211426
+  },
+  "sys32bee-utt7102d5d.wav": {
+    "predicted_mos": 1.4411619901657104,
+    "true_mos": 2.4000000953674316
+  },
+  "sys32bee-utt6bac052.wav": {
+    "predicted_mos": 1.3697792291641235,
+    "true_mos": 2.799999952316284
+  },
+  "sys32bee-utt39a4b6b.wav": {
+    "predicted_mos": 1.3134880065917969,
+    "true_mos": 3.200000047683716
+  },
+  "sys32bee-uttfd6f8f2.wav": {
+    "predicted_mos": 1.3874387741088867,
+    "true_mos": 2.357142925262451
+  },
+  "sys32bee-utt61ea0a3.wav": {
+    "predicted_mos": 1.3773481845855713,
+    "true_mos": 3.461538553237915
+  },
+  "sys32bee-utt834983b.wav": {
+    "predicted_mos": 1.335129737854004,
+    "true_mos": 2.25
+  },
+  "sys32bee-utt152685e.wav": {
+    "predicted_mos": 1.3082842826843262,
+    "true_mos": 3.384615421295166
+  },
+  "sys32bee-utt569948f.wav": {
+    "predicted_mos": 1.323116421699524,
+    "true_mos": 3.0
+  },
+  "sys32bee-utt75036e3.wav": {
+    "predicted_mos": 1.3313682079315186,
+    "true_mos": 3.0714285373687744
+  },
+  "sys32bee-utt1470738.wav": {
+    "predicted_mos": 1.4432584047317505,
+    "true_mos": 3.200000047683716
+  },
+  "sys32bee-uttdc94820.wav": {
+    "predicted_mos": 1.526660680770874,
+    "true_mos": 2.538461446762085
+  },
+  "sys32bee-uttd029d64.wav": {
+    "predicted_mos": 1.2809418439865112,
+    "true_mos": 2.230769157409668
+  },
+  "sys32bee-utt5cd32bf.wav": {
+    "predicted_mos": 1.3259191513061523,
+    "true_mos": 3.0
+  },
+  "sys32bee-utt65878a5.wav": {
+    "predicted_mos": 1.4299275875091553,
+    "true_mos": 2.857142925262451
+  },
+  "sys32bee-utt44c66a0.wav": {
+    "predicted_mos": 1.3754513263702393,
+    "true_mos": 2.125
+  },
+  "sys32bee-uttf49d286.wav": {
+    "predicted_mos": 1.3148458003997803,
+    "true_mos": 2.5
+  },
+  "sys32bee-uttc0ae779.wav": {
+    "predicted_mos": 1.3605856895446777,
+    "true_mos": 2.7142856121063232
+  },
+  "sys32bee-utt7a9aaf7.wav": {
+    "predicted_mos": 1.3962942361831665,
+    "true_mos": 2.142857074737549
+  },
+  "sys32bee-utt5673c70.wav": {
+    "predicted_mos": 1.404897689819336,
+    "true_mos": 3.200000047683716
+  },
+  "sys32bee-utt2cbaba5.wav": {
+    "predicted_mos": 1.3896046876907349,
+    "true_mos": 3.066666603088379
+  },
+  "sys32bee-utt2312201.wav": {
+    "predicted_mos": 1.2938406467437744,
+    "true_mos": 2.5
+  },
+  "sys32bee-utt9b32cde.wav": {
+    "predicted_mos": 1.3141248226165771,
+    "true_mos": 3.3333332538604736
+  },
+  "sys32bee-utt15d0524.wav": {
+    "predicted_mos": 1.3593488931655884,
+    "true_mos": 2.2352941036224365
+  },
+  "sys32bee-utt1a4ef83.wav": {
+    "predicted_mos": 1.385809063911438,
+    "true_mos": 2.3333332538604736
+  },
+  "sys32bee-uttf18b7f9.wav": {
+    "predicted_mos": 1.2542158365249634,
+    "true_mos": 1.9333332777023315
+  },
+  "sys32bee-uttc0ad944.wav": {
+    "predicted_mos": 1.2878189086914062,
+    "true_mos": 3.1666667461395264
+  },
+  "sys32bee-utt22f9e3e.wav": {
+    "predicted_mos": 1.3145593404769897,
+    "true_mos": 2.769230842590332
+  },
+  "sys32bee-utt847362a.wav": {
+    "predicted_mos": 1.3910809755325317,
+    "true_mos": 2.0
+  },
+  "sys32bee-uttffb0685.wav": {
+    "predicted_mos": 1.4623913764953613,
+    "true_mos": 3.142857074737549
+  },
+  "sys32bee-utte2ca58b.wav": {
+    "predicted_mos": 1.3652228116989136,
+    "true_mos": 2.2666666507720947
+  },
+  "sys32bee-utta9ffcc1.wav": {
+    "predicted_mos": 1.2702244520187378,
+    "true_mos": 2.3333332538604736
+  },
+  "sys32bee-utt176abdb.wav": {
+    "predicted_mos": 1.366598129272461,
+    "true_mos": 3.1875
+  },
+  "sys32bee-uttd05fc76.wav": {
+    "predicted_mos": 1.366567611694336,
+    "true_mos": 2.0
+  },
+  "sys32bee-utt0511c53.wav": {
+    "predicted_mos": 1.3307572603225708,
+    "true_mos": 1.8571428060531616
+  },
+  "sys32bee-utt36edaa5.wav": {
+    "predicted_mos": 1.338312029838562,
+    "true_mos": 2.8125
+  },
+  "sys32bee-utt721e3e1.wav": {
+    "predicted_mos": 1.3669172525405884,
+    "true_mos": 3.142857074737549
+  },
+  "sys32bee-utt1a778d3.wav": {
+    "predicted_mos": 1.3412505388259888,
+    "true_mos": 2.7272727489471436
+  },
+  "sys32bee-utt9a3840d.wav": {
+    "predicted_mos": 1.4295175075531006,
+    "true_mos": 3.142857074737549
+  },
+  "sys32bee-utt7ce4a5d.wav": {
+    "predicted_mos": 1.3452585935592651,
+    "true_mos": 3.076923131942749
+  },
+  "sys32bee-utt2676cf4.wav": {
+    "predicted_mos": 1.289900302886963,
+    "true_mos": 2.25
+  },
+  "sys32bee-utta40582e.wav": {
+    "predicted_mos": 1.3125555515289307,
+    "true_mos": 1.7692307233810425
+  },
+  "sys32bee-utt3ba04a5.wav": {
+    "predicted_mos": 1.4009153842926025,
+    "true_mos": 2.846153736114502
+  },
+  "sys8569c-utt25a0b42.wav": {
+    "predicted_mos": 2.6186208724975586,
+    "true_mos": 4.176470756530762
+  },
+  "sys8569c-uttafec506.wav": {
+    "predicted_mos": 2.94252347946167,
+    "true_mos": 4.3125
+  },
+  "sys8569c-uttf32eb0a.wav": {
+    "predicted_mos": 3.4278104305267334,
+    "true_mos": 4.411764621734619
+  },
+  "sys8569c-utte4736ce.wav": {
+    "predicted_mos": 2.822922468185425,
+    "true_mos": 4.6875
+  },
+  "sys6aa80-utta69200e.wav": {
+    "predicted_mos": 1.390228271484375,
+    "true_mos": 2.6470587253570557
+  },
+  "sys6aa80-utte8a9e1f.wav": {
+    "predicted_mos": 1.3309882879257202,
+    "true_mos": 3.0625
+  },
+  "sys6aa80-utt9fdcb9a.wav": {
+    "predicted_mos": 1.438737392425537,
+    "true_mos": 3.125
+  },
+  "sys6aa80-utt41e32da.wav": {
+    "predicted_mos": 1.5929876565933228,
+    "true_mos": 3.1764705181121826
+  },
+  "sys6d946-utt55d1f65.wav": {
+    "predicted_mos": 2.54398775100708,
+    "true_mos": 3.882352828979492
+  },
+  "sys6d946-uttc8d23c2.wav": {
+    "predicted_mos": 2.2519454956054688,
+    "true_mos": 3.9375
+  },
+  "sys6d946-uttbff16fa.wav": {
+    "predicted_mos": 1.9432588815689087,
+    "true_mos": 3.117647171020508
+  },
+  "sys6d946-utt69da83c.wav": {
+    "predicted_mos": 2.101722002029419,
+    "true_mos": 3.9375
+  },
+  "syseb559-uttf55bde5.wav": {
+    "predicted_mos": 1.289764404296875,
+    "true_mos": 1.7058823108673096
+  },
+  "syseb559-utt7e25cb7.wav": {
+    "predicted_mos": 1.2845193147659302,
+    "true_mos": 2.0
+  },
+  "syseb559-utt3d230c7.wav": {
+    "predicted_mos": 1.3604217767715454,
+    "true_mos": 2.75
+  },
+  "syseb559-utt0fcdbc6.wav": {
+    "predicted_mos": 1.623763084411621,
+    "true_mos": 2.75
+  },
+  "sys86a3b-uttbb9493d.wav": {
+    "predicted_mos": 1.4676798582077026,
+    "true_mos": 3.5
+  },
+  "sys86a3b-uttae6afbe.wav": {
+    "predicted_mos": 1.5452020168304443,
+    "true_mos": 2.6470587253570557
+  },
+  "sys86a3b-utt63ca9c4.wav": {
+    "predicted_mos": 1.707480788230896,
+    "true_mos": 3.375
+  },
+  "sys86a3b-uttbd07620.wav": {
+    "predicted_mos": 1.7906516790390015,
+    "true_mos": 3.1764705181121826
+  },
+  "sys25583-utt56866d9.wav": {
+    "predicted_mos": 2.033906936645508,
+    "true_mos": 4.375
+  },
+  "sys25583-utt7609bd0.wav": {
+    "predicted_mos": 2.6952784061431885,
+    "true_mos": 4.0
+  },
+  "sys25583-utt7c56d83.wav": {
+    "predicted_mos": 2.9622514247894287,
+    "true_mos": 4.352941036224365
+  },
+  "sys25583-utt37ccd25.wav": {
+    "predicted_mos": 2.2714052200317383,
+    "true_mos": 3.9375
+  },
+  "sysc138b-uttb0ef11d.wav": {
+    "predicted_mos": 2.057636260986328,
+    "true_mos": 3.125
+  },
+  "sysc138b-utt917975e.wav": {
+    "predicted_mos": 1.4396846294403076,
+    "true_mos": 2.8235294818878174
+  },
+  "sysc138b-uttef2b067.wav": {
+    "predicted_mos": 1.6288925409317017,
+    "true_mos": 2.117647171020508
+  },
+  "sysc138b-utt22de5e3.wav": {
+    "predicted_mos": 1.4004292488098145,
+    "true_mos": 2.8125
+  },
+  "sys9900c-uttae7312f.wav": {
+    "predicted_mos": 2.0877785682678223,
+    "true_mos": 2.2352941036224365
+  },
+  "sys9900c-uttcbfc118.wav": {
+    "predicted_mos": 2.6177027225494385,
+    "true_mos": 3.0625
+  },
+  "sys9900c-uttc74dc5b.wav": {
+    "predicted_mos": 2.641413688659668,
+    "true_mos": 3.5625
+  },
+  "sys9900c-uttd10fa4a.wav": {
+    "predicted_mos": 2.3921303749084473,
+    "true_mos": 2.2941176891326904
+  },
+  "sysc93c1-uttde0fa1f.wav": {
+    "predicted_mos": 2.1942191123962402,
+    "true_mos": 1.3125
+  },
+  "sysc93c1-uttd7d56c6.wav": {
+    "predicted_mos": 2.196526050567627,
+    "true_mos": 1.1764706373214722
+  },
+  "sysc93c1-utt19957eb.wav": {
+    "predicted_mos": 2.206827163696289,
+    "true_mos": 1.25
+  },
+  "sysc93c1-utt903ff51.wav": {
+    "predicted_mos": 2.1577868461608887,
+    "true_mos": 1.1764706373214722
+  },
+  "sysc5b22-utt7d54c74.wav": {
+    "predicted_mos": 2.790224552154541,
+    "true_mos": 4.235294342041016
+  },
+  "sysc5b22-uttddd21c9.wav": {
+    "predicted_mos": 3.29628324508667,
+    "true_mos": 4.647058963775635
+  },
+  "sysc5b22-uttf78c7a3.wav": {
+    "predicted_mos": 2.665134906768799,
+    "true_mos": 4.375
+  },
+  "sysc5b22-uttdd5ee1e.wav": {
+    "predicted_mos": 2.596160650253296,
+    "true_mos": 4.375
+  },
+  "sys2dea8-utt54d00da.wav": {
+    "predicted_mos": 2.9974024295806885,
+    "true_mos": 2.9375
+  },
+  "sys2dea8-utt2350e23.wav": {
+    "predicted_mos": 2.877561092376709,
+    "true_mos": 2.8235294818878174
+  },
+  "sys2dea8-utt5628848.wav": {
+    "predicted_mos": 2.8219046592712402,
+    "true_mos": 2.4375
+  },
+  "sys2dea8-utt17a2e9c.wav": {
+    "predicted_mos": 2.75834321975708,
+    "true_mos": 2.7647058963775635
+  },
+  "sys0c3c7-uttd413395.wav": {
+    "predicted_mos": 1.2869645357131958,
+    "true_mos": 1.5
+  },
+  "sys0c3c7-utt4f59f66.wav": {
+    "predicted_mos": 1.290047526359558,
+    "true_mos": 1.3529411554336548
+  },
+  "sys0c3c7-utt3fff0d6.wav": {
+    "predicted_mos": 1.3506650924682617,
+    "true_mos": 1.375
+  },
+  "sys0c3c7-uttfba0996.wav": {
+    "predicted_mos": 1.2826006412506104,
+    "true_mos": 1.3529411554336548
+  },
+  "sys50620-utt7ef7fba.wav": {
+    "predicted_mos": 1.684646487236023,
+    "true_mos": 2.625
+  },
+  "sys50620-utt6203caa.wav": {
+    "predicted_mos": 2.0310540199279785,
+    "true_mos": 2.625
+  },
+  "sys50620-utte229e69.wav": {
+    "predicted_mos": 2.146270275115967,
+    "true_mos": 2.8235294818878174
+  },
+  "sys50620-utt5c5af47.wav": {
+    "predicted_mos": 1.446671485900879,
+    "true_mos": 3.058823585510254
+  },
+  "sys3ac0c-utt9555923.wav": {
+    "predicted_mos": 1.4179143905639648,
+    "true_mos": 3.0625
+  },
+  "sys3ac0c-utt4b47e3a.wav": {
+    "predicted_mos": 1.3025496006011963,
+    "true_mos": 2.125
+  },
+  "sys3ac0c-utt58e1f6e.wav": {
+    "predicted_mos": 1.3000670671463013,
+    "true_mos": 3.1764705181121826
+  },
+  "sys3ac0c-uttfc5bbc5.wav": {
+    "predicted_mos": 1.586714506149292,
+    "true_mos": 2.588235378265381
+  },
+  "sys3bec5-utt10a079f.wav": {
+    "predicted_mos": 2.427330732345581,
+    "true_mos": 3.529411792755127
+  },
+  "sys3bec5-utt7203db5.wav": {
+    "predicted_mos": 2.967808723449707,
+    "true_mos": 4.176470756530762
+  },
+  "sys3bec5-utt4430a42.wav": {
+    "predicted_mos": 2.981410026550293,
+    "true_mos": 3.6875
+  },
+  "sys3bec5-utta8ca63d.wav": {
+    "predicted_mos": 2.9944307804107666,
+    "true_mos": 3.8125
+  },
+  "sysc8b6d-utt2e639e0.wav": {
+    "predicted_mos": 2.464183807373047,
+    "true_mos": 3.7058823108673096
+  },
+  "sysc8b6d-uttbbd7947.wav": {
+    "predicted_mos": 1.7881879806518555,
+    "true_mos": 2.3529412746429443
+  },
+  "sysc8b6d-utt4402d94.wav": {
+    "predicted_mos": 2.0815443992614746,
+    "true_mos": 4.0
+  },
+  "sysc8b6d-uttae73cba.wav": {
+    "predicted_mos": 2.200995683670044,
+    "true_mos": 4.125
+  },
+  "sys288fc-uttfdefd1e.wav": {
+    "predicted_mos": 1.468491792678833,
+    "true_mos": 1.25
+  },
+  "sys288fc-uttb2a03e1.wav": {
+    "predicted_mos": 1.40558922290802,
+    "true_mos": 1.3529411554336548
+  },
+  "sys288fc-uttb783f9f.wav": {
+    "predicted_mos": 1.4505603313446045,
+    "true_mos": 1.1875
+  },
+  "sys288fc-uttf5dd892.wav": {
+    "predicted_mos": 1.3443067073822021,
+    "true_mos": 1.1176470518112183
+  },
+  "sys1b29a-uttdfb7cfe.wav": {
+    "predicted_mos": 1.4973684549331665,
+    "true_mos": 2.375
+  },
+  "sys1b29a-uttd57755e.wav": {
+    "predicted_mos": 1.8165626525878906,
+    "true_mos": 3.1875
+  },
+  "sys1b29a-utte8b1f2d.wav": {
+    "predicted_mos": 1.3640215396881104,
+    "true_mos": 2.470588207244873
+  },
+  "sys1b29a-utt390eb9e.wav": {
+    "predicted_mos": 1.603912115097046,
+    "true_mos": 3.1764705181121826
+  },
+  "sysc0247-utteb912b6.wav": {
+    "predicted_mos": 3.3230419158935547,
+    "true_mos": 4.4375
+  },
+  "sysc0247-uttf42c55f.wav": {
+    "predicted_mos": 2.853294610977173,
+    "true_mos": 4.705882549285889
+  },
+  "sysc0247-utt1c78b77.wav": {
+    "predicted_mos": 2.5511984825134277,
+    "true_mos": 4.4375
+  },
+  "sysc0247-utt31a6f89.wav": {
+    "predicted_mos": 2.85723614692688,
+    "true_mos": 4.352941036224365
+  },
+  "sysc0232-uttb9d25f0.wav": {
+    "predicted_mos": 2.611238479614258,
+    "true_mos": 3.882352828979492
+  },
+  "sysc0232-utt4df97ba.wav": {
+    "predicted_mos": 2.939592123031616,
+    "true_mos": 3.941176414489746
+  },
+  "sysc0232-uttc8eedba.wav": {
+    "predicted_mos": 2.406449556350708,
+    "true_mos": 3.875
+  },
+  "sysc0232-utt2a37d2c.wav": {
+    "predicted_mos": 2.847780227661133,
+    "true_mos": 4.375
+  },
+  "sysaefdf-utt97d399a.wav": {
+    "predicted_mos": 2.7031984329223633,
+    "true_mos": 3.7058823108673096
+  },
+  "sysaefdf-utt1c47516.wav": {
+    "predicted_mos": 2.719675064086914,
+    "true_mos": 3.75
+  },
+  "sysaefdf-utt18aa320.wav": {
+    "predicted_mos": 2.4260294437408447,
+    "true_mos": 3.588235378265381
+  },
+  "sysaefdf-utt5928d09.wav": {
+    "predicted_mos": 1.8904449939727783,
+    "true_mos": 4.0
+  },
+  "sys5a87a-utt6f68421.wav": {
+    "predicted_mos": 1.7648611068725586,
+    "true_mos": 2.75
+  },
+  "sys5a87a-utt7b25488.wav": {
+    "predicted_mos": 1.637024998664856,
+    "true_mos": 1.7647058963775635
+  },
+  "sys5a87a-utte912554.wav": {
+    "predicted_mos": 1.5775477886199951,
+    "true_mos": 2.058823585510254
+  },
+  "sys5a87a-utt22bbb70.wav": {
+    "predicted_mos": 1.6945898532867432,
+    "true_mos": 2.0
+  },
+  "sys7d2dc-utt7f67825.wav": {
+    "predicted_mos": 2.506293296813965,
+    "true_mos": 3.8125
+  },
+  "sys7d2dc-utt79cf9e8.wav": {
+    "predicted_mos": 2.86201810836792,
+    "true_mos": 3.1764705181121826
+  },
+  "sys7d2dc-uttd42fc64.wav": {
+    "predicted_mos": 2.3511574268341064,
+    "true_mos": 3.5625
+  },
+  "sys7d2dc-utt8312185.wav": {
+    "predicted_mos": 3.2084269523620605,
+    "true_mos": 3.3529412746429443
+  },
+  "sys40775-uttc59c261.wav": {
+    "predicted_mos": 1.4476206302642822,
+    "true_mos": 3.125
+  },
+  "sys40775-utt81cc268.wav": {
+    "predicted_mos": 1.959010124206543,
+    "true_mos": 2.6470587253570557
+  },
+  "sys40775-uttbe60936.wav": {
+    "predicted_mos": 1.374976634979248,
+    "true_mos": 2.6470587253570557
+  },
+  "sys40775-uttc5477b8.wav": {
+    "predicted_mos": 1.6383295059204102,
+    "true_mos": 3.8125
+  },
+  "sys8569c-utt40bfd7c.wav": {
+    "predicted_mos": 3.517415761947632,
+    "true_mos": 4.666666507720947
+  },
+  "sys6aa80-utta42b8ac.wav": {
+    "predicted_mos": 1.2615703344345093,
+    "true_mos": 3.200000047683716
+  },
+  "sys6d946-uttb6ba1be.wav": {
+    "predicted_mos": 2.4100489616394043,
+    "true_mos": 4.0714287757873535
+  },
+  "syseb559-utt9883c0b.wav": {
+    "predicted_mos": 1.661080241203308,
+    "true_mos": 3.090909004211426
+  },
+  "sys86a3b-uttbbe4b6c.wav": {
+    "predicted_mos": 1.5353219509124756,
+    "true_mos": 3.5
+  },
+  "sys86a3b-uttc4c4a3d.wav": {
+    "predicted_mos": 1.3357481956481934,
+    "true_mos": 3.5
+  },
+  "sys25583-utt45f25f8.wav": {
+    "predicted_mos": 3.253727674484253,
+    "true_mos": 3.9166667461395264
+  },
+  "sys25583-utt869669e.wav": {
+    "predicted_mos": 3.112198829650879,
+    "true_mos": 4.285714149475098
+  },
+  "sysc138b-utt1aba2dc.wav": {
+    "predicted_mos": 1.5785722732543945,
+    "true_mos": 3.5714285373687744
+  },
+  "sys9900c-uttc5ab30f.wav": {
+    "predicted_mos": 2.9057319164276123,
+    "true_mos": 3.384615421295166
+  },
+  "sysc93c1-utt300fcbe.wav": {
+    "predicted_mos": 2.4959778785705566,
+    "true_mos": 1.5
+  },
+  "sysc93c1-uttca47ee3.wav": {
+    "predicted_mos": 2.630319595336914,
+    "true_mos": 1.3333333730697632
+  },
+  "sysc5b22-utt98b5b84.wav": {
+    "predicted_mos": 3.312626600265503,
+    "true_mos": 4.0714287757873535
+  },
+  "sysc5b22-utt1cf3a5c.wav": {
+    "predicted_mos": 3.467080593109131,
+    "true_mos": 4.699999809265137
+  },
+  "sys2dea8-utt1ccd705.wav": {
+    "predicted_mos": 3.1001062393188477,
+    "true_mos": 2.923076868057251
+  },
+  "sys2dea8-utta6cf512.wav": {
+    "predicted_mos": 2.9601573944091797,
+    "true_mos": 3.769230842590332
+  },
+  "sys0c3c7-utt11fcb2c.wav": {
+    "predicted_mos": 1.2910590171813965,
+    "true_mos": 1.1538461446762085
+  },
+  "sys0c3c7-uttfa9a8df.wav": {
+    "predicted_mos": 1.3105590343475342,
+    "true_mos": 1.4166666269302368
+  },
+  "sys50620-utt276b991.wav": {
+    "predicted_mos": 1.6238021850585938,
+    "true_mos": 2.5
+  },
+  "sys3ac0c-utt7680482.wav": {
+    "predicted_mos": 1.417091965675354,
+    "true_mos": 2.8181817531585693
+  },
+  "sys3ac0c-uttde1640e.wav": {
+    "predicted_mos": 1.3008055686950684,
+    "true_mos": 3.142857074737549
+  },
+  "sys3bec5-utt6d1625c.wav": {
+    "predicted_mos": 3.357468366622925,
+    "true_mos": 4.384615421295166
+  },
+  "sys3bec5-utted69fb8.wav": {
+    "predicted_mos": 2.922588348388672,
+    "true_mos": 4.5333333015441895
+  },
+  "sysc8b6d-uttc5a82d4.wav": {
+    "predicted_mos": 2.3460068702697754,
+    "true_mos": 3.4000000953674316
+  },
+  "sysc8b6d-uttc6ecd98.wav": {
+    "predicted_mos": 2.352846384048462,
+    "true_mos": 3.2142856121063232
+  },
+  "sys288fc-utt4684feb.wav": {
+    "predicted_mos": 1.5405468940734863,
+    "true_mos": 1.5625
+  },
+  "sys288fc-utte80f62e.wav": {
+    "predicted_mos": 1.300535798072815,
+    "true_mos": 1.307692289352417
+  },
+  "sys1b29a-uttd54d4cb.wav": {
+    "predicted_mos": 1.585444688796997,
+    "true_mos": 3.7857143878936768
+  },
+  "sysc0247-utt7bbbdcf.wav": {
+    "predicted_mos": 3.6665947437286377,
+    "true_mos": 4.599999904632568
+  },
+  "sysc0247-utt74771eb.wav": {
+    "predicted_mos": 3.432629108428955,
+    "true_mos": 4.4285712242126465
+  },
+  "sysc0232-utt377ebb7.wav": {
+    "predicted_mos": 2.950575113296509,
+    "true_mos": 4.0
+  },
+  "sysc0232-utt39a1c61.wav": {
+    "predicted_mos": 2.2312803268432617,
+    "true_mos": 3.7142856121063232
+  },
+  "sysaefdf-uttb99c98c.wav": {
+    "predicted_mos": 2.7465333938598633,
+    "true_mos": 4.384615421295166
+  },
+  "sys5a87a-utta1935fb.wav": {
+    "predicted_mos": 1.4931286573410034,
+    "true_mos": 2.7142856121063232
+  },
+  "sys5a87a-utte41c900.wav": {
+    "predicted_mos": 1.6295148134231567,
+    "true_mos": 2.133333444595337
+  },
+  "sys7d2dc-utt180be93.wav": {
+    "predicted_mos": 3.237835168838501,
+    "true_mos": 3.7857143878936768
+  },
+  "sys7d2dc-utt10ee076.wav": {
+    "predicted_mos": 2.5614161491394043,
+    "true_mos": 4.133333206176758
+  },
+  "sys8569c-utte3ac378.wav": {
+    "predicted_mos": 3.449498176574707,
+    "true_mos": 4.4666666984558105
+  },
+  "sys6aa80-uttedb2ec7.wav": {
+    "predicted_mos": 1.5181245803833008,
+    "true_mos": 3.4666666984558105
+  },
+  "syseb559-utt5853ece.wav": {
+    "predicted_mos": 1.3567129373550415,
+    "true_mos": 2.200000047683716
+  },
+  "sys50620-uttcba8b40.wav": {
+    "predicted_mos": 2.1092982292175293,
+    "true_mos": 3.5999999046325684
+  },
+  "sys40775-utt13a630f.wav": {
+    "predicted_mos": 1.4322397708892822,
+    "true_mos": 3.6666667461395264
+  },
+  "sys40775-utt92d08d4.wav": {
+    "predicted_mos": 1.3046624660491943,
+    "true_mos": 3.3125
+  },
+  "sys9900c-utt8d2cdee.wav": {
+    "predicted_mos": 3.0527374744415283,
+    "true_mos": 2.846153736114502
+  },
+  "sys1b29a-utt3b6a0b4.wav": {
+    "predicted_mos": 1.3870279788970947,
+    "true_mos": 3.384615421295166
+  },
+  "sys2dea8-utt3f20cf5.wav": {
+    "predicted_mos": 2.7647414207458496,
+    "true_mos": 3.5
+  },
+  "sys3ac0c-utt16ca9df.wav": {
+    "predicted_mos": 1.260279893875122,
+    "true_mos": 2.5625
+  },
+  "sysaefdf-utt1cbf8fe.wav": {
+    "predicted_mos": 2.6048426628112793,
+    "true_mos": 4.384615421295166
+  },
+  "sys3ac0c-utt96cb093.wav": {
+    "predicted_mos": 1.306971549987793,
+    "true_mos": 2.7333333492279053
+  },
+  "sys1b29a-utt3433d1d.wav": {
+    "predicted_mos": 1.925737977027893,
+    "true_mos": 2.9285714626312256
+  },
+  "sys0c3c7-utt538e15b.wav": {
+    "predicted_mos": 1.320228934288025,
+    "true_mos": 1.2857142686843872
+  },
+  "sys3ac0c-utte7d28c6.wav": {
+    "predicted_mos": 1.443439245223999,
+    "true_mos": 2.2857143878936768
+  },
+  "sys25583-utt7d0f482.wav": {
+    "predicted_mos": 2.3354387283325195,
+    "true_mos": 4.4285712242126465
+  },
+  "sysaefdf-utt9daa218.wav": {
+    "predicted_mos": 2.417104959487915,
+    "true_mos": 3.9166667461395264
+  },
+  "sys50620-utt6e513b7.wav": {
+    "predicted_mos": 1.528908371925354,
+    "true_mos": 3.692307710647583
+  },
+  "sys50620-utt2ef6cf7.wav": {
+    "predicted_mos": 1.7472726106643677,
+    "true_mos": 1.7857142686843872
+  },
+  "sys6d946-uttfd59149.wav": {
+    "predicted_mos": 1.6022711992263794,
+    "true_mos": 3.923076868057251
+  },
+  "sysc0247-utt685f31c.wav": {
+    "predicted_mos": 2.7576498985290527,
+    "true_mos": 4.384615421295166
+  },
+  "sys8569c-utt74d8480.wav": {
+    "predicted_mos": 3.550708770751953,
+    "true_mos": 4.666666507720947
+  },
+  "sys8569c-uttac08274.wav": {
+    "predicted_mos": 3.1171905994415283,
+    "true_mos": 4.75
+  },
+  "syseb559-utt7018b36.wav": {
+    "predicted_mos": 1.522383213043213,
+    "true_mos": 2.75
+  },
+  "syseb559-utta1dc3d1.wav": {
+    "predicted_mos": 1.739323377609253,
+    "true_mos": 3.0625
+  },
+  "sys50620-utt2ff24f2.wav": {
+    "predicted_mos": 1.8774058818817139,
+    "true_mos": 2.6666667461395264
+  },
+  "sysc8b6d-uttda4a44d.wav": {
+    "predicted_mos": 2.2550606727600098,
+    "true_mos": 3.461538553237915
+  },
+  "sys2dea8-utt1715c7b.wav": {
+    "predicted_mos": 3.00811505317688,
+    "true_mos": 2.5
+  },
+  "sysc93c1-utt19bc501.wav": {
+    "predicted_mos": 2.2590579986572266,
+    "true_mos": 1.1428571939468384
+  },
+  "sys288fc-utt04feb55.wav": {
+    "predicted_mos": 1.4323970079421997,
+    "true_mos": 1.5
+  },
+  "sys50620-uttf88c5af.wav": {
+    "predicted_mos": 1.8325958251953125,
+    "true_mos": 3.0
+  },
+  "sysc5b22-uttf611b97.wav": {
+    "predicted_mos": 3.0637917518615723,
+    "true_mos": 4.666666507720947
+  },
+  "sys3ac0c-utt150d1b9.wav": {
+    "predicted_mos": 1.4630610942840576,
+    "true_mos": 2.4666666984558105
+  },
+  "sys3bec5-utt1d47b86.wav": {
+    "predicted_mos": 3.0254039764404297,
+    "true_mos": 3.8125
+  },
+  "syseb559-utt10eaa50.wav": {
+    "predicted_mos": 1.3049671649932861,
+    "true_mos": 3.2857143878936768
+  },
+  "sys25583-utt25a3187.wav": {
+    "predicted_mos": 2.5696568489074707,
+    "true_mos": 4.307692527770996
+  },
+  "sys9900c-utt91b0315.wav": {
+    "predicted_mos": 2.549934148788452,
+    "true_mos": 3.230769157409668
+  },
+  "sys8569c-uttdcf2beb.wav": {
+    "predicted_mos": 3.039963722229004,
+    "true_mos": 4.461538314819336
+  },
+  "sysc93c1-uttad1b34c.wav": {
+    "predicted_mos": 2.238537311553955,
+    "true_mos": 1.2000000476837158
+  },
+  "syseb559-utt083e600.wav": {
+    "predicted_mos": 1.3981636762619019,
+    "true_mos": 2.642857074737549
+  },
+  "sys86a3b-uttc175f2a.wav": {
+    "predicted_mos": 1.4947316646575928,
+    "true_mos": 2.9285714626312256
+  },
+  "sys288fc-utt567b13e.wav": {
+    "predicted_mos": 1.3709564208984375,
+    "true_mos": 1.5384615659713745
+  },
+  "sys86a3b-uttd9f5747.wav": {
+    "predicted_mos": 1.473543405532837,
+    "true_mos": 4.07692289352417
+  },
+  "sysc5b22-utt010b6fa.wav": {
+    "predicted_mos": 2.2739644050598145,
+    "true_mos": 4.5
+  },
+  "sysc8b6d-utt28bac9d.wav": {
+    "predicted_mos": 2.3137078285217285,
+    "true_mos": 3.692307710647583
+  },
+  "sys3bec5-utta06e7f1.wav": {
+    "predicted_mos": 3.0711963176727295,
+    "true_mos": 4.133333206176758
+  },
+  "sysc0247-uttddc5013.wav": {
+    "predicted_mos": 3.4126229286193848,
+    "true_mos": 4.357142925262451
+  },
+  "sys86a3b-uttbf6a67f.wav": {
+    "predicted_mos": 1.3497039079666138,
+    "true_mos": 3.307692289352417
+  },
+  "sysc5b22-utt3cec778.wav": {
+    "predicted_mos": 3.1756784915924072,
+    "true_mos": 4.769230842590332
+  },
+  "sysc0232-utt87f7210.wav": {
+    "predicted_mos": 2.444570302963257,
+    "true_mos": 4.0
+  },
+  "sysaefdf-utt7b334d8.wav": {
+    "predicted_mos": 2.138197898864746,
+    "true_mos": 4.461538314819336
+  },
+  "sys86a3b-utteb2f45e.wav": {
+    "predicted_mos": 1.6285583972930908,
+    "true_mos": 3.133333444595337
+  },
+  "sysc5b22-utt172e9b6.wav": {
+    "predicted_mos": 2.436558485031128,
+    "true_mos": 4.75
+  },
+  "sys50620-utt67090f2.wav": {
+    "predicted_mos": 1.959168553352356,
+    "true_mos": 3.1875
+  },
+  "sysaefdf-utt23c6fc5.wav": {
+    "predicted_mos": 2.1740448474884033,
+    "true_mos": 4.375
+  },
+  "sysc0232-utt8f21e70.wav": {
+    "predicted_mos": 2.623732805252075,
+    "true_mos": 3.7333333492279053
+  },
+  "syseb559-utt9e0aef8.wav": {
+    "predicted_mos": 1.3408063650131226,
+    "true_mos": 3.3333332538604736
+  },
+  "sysc0232-utt62c8548.wav": {
+    "predicted_mos": 2.2111730575561523,
+    "true_mos": 3.7142856121063232
+  },
+  "sys8569c-utta366020.wav": {
+    "predicted_mos": 2.6097910404205322,
+    "true_mos": 4.800000190734863
+  },
+  "sys0c3c7-utt94084a2.wav": {
+    "predicted_mos": 1.3279175758361816,
+    "true_mos": 1.25
+  },
+  "sysaefdf-utt184068c.wav": {
+    "predicted_mos": 2.351869583129883,
+    "true_mos": 4.285714149475098
+  },
+  "sysc0247-utta6f1b36.wav": {
+    "predicted_mos": 3.4724326133728027,
+    "true_mos": 4.400000095367432
+  },
+  "sys6d946-uttc28b93b.wav": {
+    "predicted_mos": 2.6980035305023193,
+    "true_mos": 3.9285714626312256
+  },
+  "sysc5b22-utt9c6b6ce.wav": {
+    "predicted_mos": 2.9377920627593994,
+    "true_mos": 4.642857074737549
+  },
+  "sys288fc-utt69b6aac.wav": {
+    "predicted_mos": 1.365330696105957,
+    "true_mos": 1.75
+  },
+  "sysc8b6d-uttb5998bb.wav": {
+    "predicted_mos": 2.3982901573181152,
+    "true_mos": 4.142857074737549
+  },
+  "sys6d946-utt77889c1.wav": {
+    "predicted_mos": 1.596634864807129,
+    "true_mos": 3.5
+  },
+  "sysaefdf-uttafd818c.wav": {
+    "predicted_mos": 2.544501781463623,
+    "true_mos": 4.636363506317139
+  },
+  "sys2dea8-utt6db2c70.wav": {
+    "predicted_mos": 2.776646614074707,
+    "true_mos": 3.142857074737549
+  },
+  "syseb559-utt5d98327.wav": {
+    "predicted_mos": 1.3281450271606445,
+    "true_mos": 2.384615421295166
+  },
+  "sysc8b6d-utt22af64c.wav": {
+    "predicted_mos": 2.3748106956481934,
+    "true_mos": 4.142857074737549
+  },
+  "sysaefdf-utt3a04807.wav": {
+    "predicted_mos": 2.466606616973877,
+    "true_mos": 4.0
+  },
+  "sysaefdf-utt2eab4bd.wav": {
+    "predicted_mos": 2.3080086708068848,
+    "true_mos": 3.769230842590332
+  },
+  "syseb559-utt8a89146.wav": {
+    "predicted_mos": 1.4095203876495361,
+    "true_mos": 2.7142856121063232
+  },
+  "sysc8b6d-utt4b63a79.wav": {
+    "predicted_mos": 2.137207269668579,
+    "true_mos": 2.6666667461395264
+  },
+  "sysc93c1-utt2eb66d8.wav": {
+    "predicted_mos": 2.412879467010498,
+    "true_mos": 1.7142857313156128
+  },
+  "sysc8b6d-utt27ac035.wav": {
+    "predicted_mos": 2.1897168159484863,
+    "true_mos": 3.6666667461395264
+  },
+  "sysc93c1-utt7531482.wav": {
+    "predicted_mos": 2.2059245109558105,
+    "true_mos": 1.1538461446762085
+  },
+  "sysc93c1-utt12e2cd0.wav": {
+    "predicted_mos": 1.7630720138549805,
+    "true_mos": 1.3333333730697632
+  },
+  "sysc5b22-utt4419652.wav": {
+    "predicted_mos": 2.867964267730713,
+    "true_mos": 4.692307472229004
+  },
+  "sysc93c1-utt1e80146.wav": {
+    "predicted_mos": 2.3750977516174316,
+    "true_mos": 1.1538461446762085
+  },
+  "sys8569c-utte89d820.wav": {
+    "predicted_mos": 3.4595205783843994,
+    "true_mos": 4.583333492279053
+  },
+  "sys3bec5-utt58c6650.wav": {
+    "predicted_mos": 2.7917323112487793,
+    "true_mos": 4.0
+  },
+  "sys25583-uttf5db1b0.wav": {
+    "predicted_mos": 2.6834702491760254,
+    "true_mos": 4.3125
+  },
+  "sys2dea8-utta22b46e.wav": {
+    "predicted_mos": 3.1178297996520996,
+    "true_mos": 2.769230842590332
+  },
+  "sys3bec5-utt3082aef.wav": {
+    "predicted_mos": 2.7626140117645264,
+    "true_mos": 4.199999809265137
+  },
+  "sys86a3b-uttd861850.wav": {
+    "predicted_mos": 1.5295745134353638,
+    "true_mos": 3.799999952316284
+  },
+  "sys1b29a-utt5d5a1a6.wav": {
+    "predicted_mos": 1.508117914199829,
+    "true_mos": 3.6666667461395264
+  },
+  "sysc138b-utt4d6171f.wav": {
+    "predicted_mos": 1.5339972972869873,
+    "true_mos": 2.545454502105713
+  },
+  "syseb559-utt7c2d7fb.wav": {
+    "predicted_mos": 1.3516331911087036,
+    "true_mos": 2.8333332538604736
+  },
+  "sysc5b22-uttbdad44a.wav": {
+    "predicted_mos": 3.262042999267578,
+    "true_mos": 4.5
+  },
+  "sys0c3c7-utt6dcef29.wav": {
+    "predicted_mos": 1.3232333660125732,
+    "true_mos": 1.0714285373687744
+  },
+  "sys9900c-utt61fd9c9.wav": {
+    "predicted_mos": 2.7209877967834473,
+    "true_mos": 2.2857143878936768
+  },
+  "sys1b29a-utte7d6ab5.wav": {
+    "predicted_mos": 1.4407036304473877,
+    "true_mos": 3.5
+  },
+  "syseb559-utt68993be.wav": {
+    "predicted_mos": 1.4009212255477905,
+    "true_mos": 1.923076868057251
+  },
+  "sys86a3b-utt8e847b9.wav": {
+    "predicted_mos": 1.3841460943222046,
+    "true_mos": 3.3333332538604736
+  },
+  "sysaefdf-utt983ecaf.wav": {
+    "predicted_mos": 2.4998464584350586,
+    "true_mos": 3.2857143878936768
+  },
+  "sysaefdf-uttff74194.wav": {
+    "predicted_mos": 2.6757755279541016,
+    "true_mos": 4.133333206176758
+  },
+  "sysc138b-utt8930428.wav": {
+    "predicted_mos": 1.7574936151504517,
+    "true_mos": 3.25
+  },
+  "sys2dea8-utt6ea0ff5.wav": {
+    "predicted_mos": 3.034353256225586,
+    "true_mos": 2.5833332538604736
+  },
+  "sys3ac0c-uttc4d5a35.wav": {
+    "predicted_mos": 1.3740363121032715,
+    "true_mos": 2.6666667461395264
+  },
+  "sys6d946-utt3186410.wav": {
+    "predicted_mos": 2.2139382362365723,
+    "true_mos": 4.266666889190674
+  },
+  "sys86a3b-utt6324916.wav": {
+    "predicted_mos": 1.3715828657150269,
+    "true_mos": 3.5833332538604736
+  },
+  "sys3bec5-utte718a41.wav": {
+    "predicted_mos": 2.7714290618896484,
+    "true_mos": 3.642857074737549
+  },
+  "sys6d946-utt6516a97.wav": {
+    "predicted_mos": 2.4283571243286133,
+    "true_mos": 4.4285712242126465
+  },
+  "sys86a3b-utt22f52f9.wav": {
+    "predicted_mos": 1.4112138748168945,
+    "true_mos": 3.5999999046325684
+  },
+  "sysc0247-utt9b844ee.wav": {
+    "predicted_mos": 2.875403881072998,
+    "true_mos": 4.5714287757873535
+  },
+  "sysc138b-utt43b7d24.wav": {
+    "predicted_mos": 1.8421225547790527,
+    "true_mos": 2.9285714626312256
+  },
+  "sys8569c-utt1d5f577.wav": {
+    "predicted_mos": 3.56490159034729,
+    "true_mos": 4.615384578704834
+  },
+  "sys50620-uttcf3fd8f.wav": {
+    "predicted_mos": 1.7604405879974365,
+    "true_mos": 2.3333332538604736
+  },
+  "sysc138b-uttfc8e4ce.wav": {
+    "predicted_mos": 1.549760341644287,
+    "true_mos": 2.615384578704834
+  },
+  "sysc0232-utt54a621e.wav": {
+    "predicted_mos": 2.8022711277008057,
+    "true_mos": 4.5333333015441895
+  },
+  "sysc0247-uttb33b5d5.wav": {
+    "predicted_mos": 3.3791651725769043,
+    "true_mos": 4.153846263885498
+  },
+  "sys1b29a-uttb7981ca.wav": {
+    "predicted_mos": 1.3057150840759277,
+    "true_mos": 3.076923131942749
+  },
+  "sys8569c-utteaa00c7.wav": {
+    "predicted_mos": 3.2571747303009033,
+    "true_mos": 4.785714149475098
+  },
+  "sys50620-utt327c321.wav": {
+    "predicted_mos": 1.9080898761749268,
+    "true_mos": 2.799999952316284
+  },
+  "sysc0232-uttdd08b8a.wav": {
+    "predicted_mos": 2.323420286178589,
+    "true_mos": 4.166666507720947
+  },
+  "sysc5b22-utt82ba79e.wav": {
+    "predicted_mos": 2.673734664916992,
+    "true_mos": 4.25
+  },
+  "sys3ac0c-utt5d9850d.wav": {
+    "predicted_mos": 1.6264407634735107,
+    "true_mos": 2.799999952316284
+  },
+  "sysc0232-uttadf3dcb.wav": {
+    "predicted_mos": 1.9162002801895142,
+    "true_mos": 4.0
+  },
+  "sysc93c1-utt413ed99.wav": {
+    "predicted_mos": 2.07224440574646,
+    "true_mos": 1.2307692766189575
+  },
+  "sys86a3b-utt41d177f.wav": {
+    "predicted_mos": 1.6881431341171265,
+    "true_mos": 3.076923131942749
+  },
+  "sys3ac0c-utt5ab1f67.wav": {
+    "predicted_mos": 1.3747206926345825,
+    "true_mos": 3.700000047683716
+  },
+  "sysc0247-uttaafdf3c.wav": {
+    "predicted_mos": 2.9390714168548584,
+    "true_mos": 4.0
+  },
+  "sys50620-utt8e13915.wav": {
+    "predicted_mos": 1.5511831045150757,
+    "true_mos": 1.5333333015441895
+  },
+  "sysc0247-utte04cfd2.wav": {
+    "predicted_mos": 3.1581716537475586,
+    "true_mos": 4.599999904632568
+  },
+  "sys50620-utt294a3bb.wav": {
+    "predicted_mos": 1.7747328281402588,
+    "true_mos": 3.642857074737549
+  },
+  "sys2dea8-utt2399113.wav": {
+    "predicted_mos": 2.676457405090332,
+    "true_mos": 2.615384578704834
+  },
+  "sys6aa80-utt54823b4.wav": {
+    "predicted_mos": 1.4725261926651,
+    "true_mos": 2.4166667461395264
+  },
+  "sys1b29a-uttc617ed0.wav": {
+    "predicted_mos": 1.6720232963562012,
+    "true_mos": 4.153846263885498
+  },
+  "sysc138b-utt1779d4c.wav": {
+    "predicted_mos": 1.7139533758163452,
+    "true_mos": 3.7333333492279053
+  },
+  "sysc5b22-utt05aa62f.wav": {
+    "predicted_mos": 3.28708815574646,
+    "true_mos": 4.166666507720947
+  },
+  "sys25583-utt829e738.wav": {
+    "predicted_mos": 2.853734016418457,
+    "true_mos": 3.933333396911621
+  },
+  "sys3bec5-utte65698e.wav": {
+    "predicted_mos": 2.6657845973968506,
+    "true_mos": 3.909090995788574
+  },
+  "sysc0247-utteda0dc4.wav": {
+    "predicted_mos": 2.8982338905334473,
+    "true_mos": 3.8125
+  },
+  "sys9900c-utt4e5ea53.wav": {
+    "predicted_mos": 2.722313404083252,
+    "true_mos": 2.769230842590332
+  },
+  "sys1b29a-utt79be889.wav": {
+    "predicted_mos": 1.7384973764419556,
+    "true_mos": 3.0
+  },
+  "syseb559-utt296c4df.wav": {
+    "predicted_mos": 1.5149998664855957,
+    "true_mos": 2.5714285373687744
+  },
+  "sys8569c-utt6327000.wav": {
+    "predicted_mos": 2.7789058685302734,
+    "true_mos": 4.733333110809326
+  },
+  "sys9900c-utt11bdd3e.wav": {
+    "predicted_mos": 2.7143051624298096,
+    "true_mos": 3.307692289352417
+  },
+  "sys50620-utt9ea07be.wav": {
+    "predicted_mos": 1.4969124794006348,
+    "true_mos": 1.8571428060531616
+  },
+  "sys9900c-utt04fb8a0.wav": {
+    "predicted_mos": 2.717498779296875,
+    "true_mos": 2.0
+  },
+  "sys3ac0c-uttd54236e.wav": {
+    "predicted_mos": 1.3615913391113281,
+    "true_mos": 2.799999952316284
+  },
+  "sys2dea8-utte607d62.wav": {
+    "predicted_mos": 3.0794427394866943,
+    "true_mos": 3.2857143878936768
+  },
+  "sys1b29a-utt4696fd7.wav": {
+    "predicted_mos": 1.5991604328155518,
+    "true_mos": 3.0714285373687744
+  },
+  "sys1b29a-utt7c72c34.wav": {
+    "predicted_mos": 1.805243968963623,
+    "true_mos": 2.7857143878936768
+  },
+  "sys288fc-utta56757b.wav": {
+    "predicted_mos": 1.437830924987793,
+    "true_mos": 1.384615421295166
+  },
+  "sys86a3b-utt587fc06.wav": {
+    "predicted_mos": 1.550220251083374,
+    "true_mos": 2.7857143878936768
+  },
+  "sys6d946-utt7177fec.wav": {
+    "predicted_mos": 2.326669216156006,
+    "true_mos": 3.9166667461395264
+  },
+  "sys1b29a-utt39fb91a.wav": {
+    "predicted_mos": 1.9849309921264648,
+    "true_mos": 3.692307710647583
+  },
+  "sys50620-uttdeaca78.wav": {
+    "predicted_mos": 1.8348157405853271,
+    "true_mos": 3.461538553237915
+  },
+  "sys3bec5-utt5e79da3.wav": {
+    "predicted_mos": 3.257572650909424,
+    "true_mos": 4.4285712242126465
+  },
+  "sysc8b6d-utt4454e4c.wav": {
+    "predicted_mos": 2.5179812908172607,
+    "true_mos": 3.461538553237915
+  },
+  "sys8569c-uttec3b776.wav": {
+    "predicted_mos": 3.3335139751434326,
+    "true_mos": 4.733333110809326
+  },
+  "sys2dea8-uttf3e7d78.wav": {
+    "predicted_mos": 2.8667967319488525,
+    "true_mos": 3.5999999046325684
+  },
+  "sys8569c-utt1dd943e.wav": {
+    "predicted_mos": 2.840229034423828,
+    "true_mos": 4.714285850524902
+  },
+  "sys288fc-utt66d5e72.wav": {
+    "predicted_mos": 1.4282406568527222,
+    "true_mos": 1.3571428060531616
+  },
+  "sys0c3c7-utt132ecee.wav": {
+    "predicted_mos": 1.2770792245864868,
+    "true_mos": 1.1428571939468384
+  },
+  "sys9900c-utt68fb371.wav": {
+    "predicted_mos": 2.623469114303589,
+    "true_mos": 2.0
+  },
+  "sys25583-utt4198a1d.wav": {
+    "predicted_mos": 2.6631298065185547,
+    "true_mos": 4.4666666984558105
+  },
+  "sys8569c-uttc23bf0b.wav": {
+    "predicted_mos": 2.906522750854492,
+    "true_mos": 4.733333110809326
+  },
+  "sys9900c-utt0b2efaf.wav": {
+    "predicted_mos": 2.9410324096679688,
+    "true_mos": 3.357142925262451
+  },
+  "sysc0247-utte1b60a7.wav": {
+    "predicted_mos": 3.3827807903289795,
+    "true_mos": 4.2727274894714355
+  },
+  "sys1b29a-uttfe98e4a.wav": {
+    "predicted_mos": 1.4115140438079834,
+    "true_mos": 3.0
+  },
+  "sysc93c1-uttc87c91b.wav": {
+    "predicted_mos": 2.3199639320373535,
+    "true_mos": 1.2666666507720947
+  },
+  "sysc138b-uttbe558d9.wav": {
+    "predicted_mos": 1.672039270401001,
+    "true_mos": 2.538461446762085
+  },
+  "sysaefdf-utt9d765f2.wav": {
+    "predicted_mos": 2.2759671211242676,
+    "true_mos": 3.692307710647583
+  },
+  "sysc0247-utt3e8c1d2.wav": {
+    "predicted_mos": 3.277918815612793,
+    "true_mos": 4.75
+  },
+  "sys1b29a-utt326f472.wav": {
+    "predicted_mos": 1.630495548248291,
+    "true_mos": 3.7142856121063232
+  },
+  "sys3ac0c-utt29f611e.wav": {
+    "predicted_mos": 1.3182705640792847,
+    "true_mos": 1.5384615659713745
+  },
+  "sysc0247-utta1781b8.wav": {
+    "predicted_mos": 3.298062324523926,
+    "true_mos": 4.785714149475098
+  },
+  "sys288fc-utt1b475ae.wav": {
+    "predicted_mos": 1.4090694189071655,
+    "true_mos": 1.7692307233810425
+  },
+  "sys8569c-utt04c05e9.wav": {
+    "predicted_mos": 3.1906635761260986,
+    "true_mos": 4.866666793823242
+  },
+  "sys6d946-utt6d21e63.wav": {
+    "predicted_mos": 2.2421536445617676,
+    "true_mos": 3.6875
+  },
+  "sysc5b22-uttdafd55d.wav": {
+    "predicted_mos": 2.5195422172546387,
+    "true_mos": 4.357142925262451
+  },
+  "sys1b29a-uttcc86fde.wav": {
+    "predicted_mos": 1.3370118141174316,
+    "true_mos": 2.4285714626312256
+  },
+  "sysc138b-utt2f8caf7.wav": {
+    "predicted_mos": 1.4084844589233398,
+    "true_mos": 3.0
+  },
+  "sysc8b6d-utt183b058.wav": {
+    "predicted_mos": 1.9143445491790771,
+    "true_mos": 1.9285714626312256
+  },
+  "sys2dea8-utt1f26e99.wav": {
+    "predicted_mos": 2.7082600593566895,
+    "true_mos": 2.642857074737549
+  },
+  "sysc0247-uttf36434d.wav": {
+    "predicted_mos": 2.9217727184295654,
+    "true_mos": 4.230769157409668
+  },
+  "sysc0232-utt132202d.wav": {
+    "predicted_mos": 2.1395931243896484,
+    "true_mos": 4.0
+  },
+  "sys25583-utt7d75c24.wav": {
+    "predicted_mos": 2.4155893325805664,
+    "true_mos": 4.5625
+  },
+  "sysc0232-uttabb7671.wav": {
+    "predicted_mos": 1.8881969451904297,
+    "true_mos": 3.7142856121063232
+  },
+  "sys9900c-uttbd81d97.wav": {
+    "predicted_mos": 2.1278862953186035,
+    "true_mos": 2.5714285373687744
+  },
+  "sysc0232-utt5581ec8.wav": {
+    "predicted_mos": 2.8553249835968018,
+    "true_mos": 4.125
+  },
+  "sysc138b-utt7837a2a.wav": {
+    "predicted_mos": 1.827636480331421,
+    "true_mos": 2.642857074737549
+  },
+  "syseb559-utt1252781.wav": {
+    "predicted_mos": 1.5036816596984863,
+    "true_mos": 2.461538553237915
+  },
+  "sysc138b-utt4282243.wav": {
+    "predicted_mos": 1.3766433000564575,
+    "true_mos": 2.7142856121063232
+  },
+  "sys6aa80-uttcd32300.wav": {
+    "predicted_mos": 1.2776433229446411,
+    "true_mos": 3.769230842590332
+  },
+  "sysc0232-utt1693acb.wav": {
+    "predicted_mos": 2.0672378540039062,
+    "true_mos": 4.099999904632568
+  },
+  "sys6d946-utt79e6fd2.wav": {
+    "predicted_mos": 2.3527426719665527,
+    "true_mos": 4.4666666984558105
+  },
+  "sys9900c-utt717b057.wav": {
+    "predicted_mos": 2.493157386779785,
+    "true_mos": 2.200000047683716
+  },
+  "sys6aa80-utt7acb408.wav": {
+    "predicted_mos": 1.4621057510375977,
+    "true_mos": 2.7142856121063232
+  },
+  "sys1b29a-utt0b86db1.wav": {
+    "predicted_mos": 1.7104244232177734,
+    "true_mos": 3.2857143878936768
+  },
+  "sysc93c1-utt6b9b2b3.wav": {
+    "predicted_mos": 2.1955714225769043,
+    "true_mos": 1.125
+  },
+  "sys6aa80-utta58dd4a.wav": {
+    "predicted_mos": 1.26581871509552,
+    "true_mos": 3.375
+  },
+  "sys0c3c7-utt2f8dc2a.wav": {
+    "predicted_mos": 1.2930917739868164,
+    "true_mos": 1.4615384340286255
+  },
+  "sys8569c-utt0f19b08.wav": {
+    "predicted_mos": 3.457782030105591,
+    "true_mos": 4.699999809265137
+  },
+  "sys6d946-utt8f3c315.wav": {
+    "predicted_mos": 2.1276040077209473,
+    "true_mos": 4.25
+  },
+  "sys50620-uttfc88617.wav": {
+    "predicted_mos": 1.6697101593017578,
+    "true_mos": 3.5
+  },
+  "sysc0232-utte09f593.wav": {
+    "predicted_mos": 2.162853240966797,
+    "true_mos": 3.5714285373687744
+  },
+  "sysc138b-uttf165fbf.wav": {
+    "predicted_mos": 1.5357773303985596,
+    "true_mos": 3.8333332538604736
+  },
+  "sys86a3b-utt4bb96ef.wav": {
+    "predicted_mos": 1.3663358688354492,
+    "true_mos": 2.923076868057251
+  },
+  "sys0c3c7-utta178609.wav": {
+    "predicted_mos": 1.3436754941940308,
+    "true_mos": 1.4285714626312256
+  },
+  "sysc0247-uttdf6b7de.wav": {
+    "predicted_mos": 3.2275502681732178,
+    "true_mos": 4.142857074737549
+  },
+  "syseb559-utt13ab056.wav": {
+    "predicted_mos": 1.301154613494873,
+    "true_mos": 2.75
+  },
+  "syseb559-utt67dd31d.wav": {
+    "predicted_mos": 1.5305510759353638,
+    "true_mos": 2.2857143878936768
+  },
+  "sysc8b6d-uttc82a5b7.wav": {
+    "predicted_mos": 2.647047996520996,
+    "true_mos": 3.5833332538604736
+  },
+  "sysc0232-utte2ebf5a.wav": {
+    "predicted_mos": 1.9623258113861084,
+    "true_mos": 3.923076868057251
+  },
+  "sys86a3b-utt64d3ea3.wav": {
+    "predicted_mos": 1.50225830078125,
+    "true_mos": 3.2142856121063232
+  },
+  "sys8569c-uttfdbe448.wav": {
+    "predicted_mos": 3.5075201988220215,
+    "true_mos": 4.9285712242126465
+  },
+  "sys6aa80-uttfa657a7.wav": {
+    "predicted_mos": 1.357592225074768,
+    "true_mos": 2.4285714626312256
+  },
+  "sys1b29a-uttd14688e.wav": {
+    "predicted_mos": 1.3421671390533447,
+    "true_mos": 3.357142925262451
+  },
+  "sys1b29a-uttd3dea54.wav": {
+    "predicted_mos": 1.930468201637268,
+    "true_mos": 3.0833332538604736
+  },
+  "sysc0232-utte29b480.wav": {
+    "predicted_mos": 2.6039226055145264,
+    "true_mos": 4.083333492279053
+  },
+  "sys0c3c7-utt39f9774.wav": {
+    "predicted_mos": 1.270437240600586,
+    "true_mos": 1.0714285373687744
+  },
+  "sys8569c-utt21ca8b3.wav": {
+    "predicted_mos": 3.37692928314209,
+    "true_mos": 4.75
+  },
+  "sys2dea8-utta3236c1.wav": {
+    "predicted_mos": 2.7906060218811035,
+    "true_mos": 3.066666603088379
+  },
+  "sysc138b-utt9e388e4.wav": {
+    "predicted_mos": 1.610351800918579,
+    "true_mos": 3.5714285373687744
+  },
+  "sys1b29a-uttbdb6cea.wav": {
+    "predicted_mos": 1.337457299232483,
+    "true_mos": 3.2666666507720947
+  },
+  "sys8569c-uttc272a80.wav": {
+    "predicted_mos": 2.8946828842163086,
+    "true_mos": 4.375
+  },
+  "sys25583-uttb836b2c.wav": {
+    "predicted_mos": 2.7596030235290527,
+    "true_mos": 4.25
+  },
+  "sys0c3c7-utt2f8cb8a.wav": {
+    "predicted_mos": 1.3060336112976074,
+    "true_mos": 1.0666667222976685
+  },
+  "sys3bec5-uttdfce3b2.wav": {
+    "predicted_mos": 2.7236711978912354,
+    "true_mos": 3.9285714626312256
+  },
+  "sysc93c1-utt26bbe9c.wav": {
+    "predicted_mos": 2.368638515472412,
+    "true_mos": 1.0909091234207153
+  },
+  "sys0c3c7-utt5e2dd34.wav": {
+    "predicted_mos": 1.24895441532135,
+    "true_mos": 1.4166666269302368
+  },
+  "sys6d946-utt66a57ec.wav": {
+    "predicted_mos": 1.9490888118743896,
+    "true_mos": 4.333333492279053
+  },
+  "sys1b29a-utt3f6c6c1.wav": {
+    "predicted_mos": 1.9617578983306885,
+    "true_mos": 3.076923131942749
+  },
+  "sys3bec5-utt3d499b2.wav": {
+    "predicted_mos": 3.187746524810791,
+    "true_mos": 4.066666603088379
+  },
+  "sysc0232-uttca5af77.wav": {
+    "predicted_mos": 2.5307703018188477,
+    "true_mos": 4.090909004211426
+  },
+  "sys8569c-utte5c1ab8.wav": {
+    "predicted_mos": 3.087973117828369,
+    "true_mos": 4.583333492279053
+  },
+  "sys8569c-uttdd354ee.wav": {
+    "predicted_mos": 3.313933849334717,
+    "true_mos": 4.642857074737549
+  },
+  "sys6d946-utt13c120d.wav": {
+    "predicted_mos": 2.1070914268493652,
+    "true_mos": 3.75
+  },
+  "sys6d946-uttcacf105.wav": {
+    "predicted_mos": 2.0878636837005615,
+    "true_mos": 4.25
+  },
+  "sys288fc-utt7012bc5.wav": {
+    "predicted_mos": 1.3479236364364624,
+    "true_mos": 1.25
+  },
+  "sys288fc-utt4b82834.wav": {
+    "predicted_mos": 1.5838284492492676,
+    "true_mos": 1.2142857313156128
+  },
+  "syseb559-uttcb42623.wav": {
+    "predicted_mos": 1.3251683712005615,
+    "true_mos": 2.6363637447357178
+  },
+  "sys9900c-utt3e70ca4.wav": {
+    "predicted_mos": 2.174020767211914,
+    "true_mos": 2.25
+  },
+  "sys1b29a-uttf282f56.wav": {
+    "predicted_mos": 1.4001188278198242,
+    "true_mos": 3.25
+  },
+  "sys8569c-utt82ff201.wav": {
+    "predicted_mos": 3.475452423095703,
+    "true_mos": 4.666666507720947
+  },
+  "sys9900c-utt187a5cd.wav": {
+    "predicted_mos": 2.1388518810272217,
+    "true_mos": 2.538461446762085
+  },
+  "sys288fc-utt08a44dd.wav": {
+    "predicted_mos": 1.4500572681427002,
+    "true_mos": 1.2666666507720947
+  },
+  "sys86a3b-utt9e095d4.wav": {
+    "predicted_mos": 1.611297369003296,
+    "true_mos": 2.857142925262451
+  },
+  "sys2dea8-utte3c2413.wav": {
+    "predicted_mos": 2.811634063720703,
+    "true_mos": 3.230769157409668
+  },
+  "sys6aa80-utt1bbae46.wav": {
+    "predicted_mos": 1.504145622253418,
+    "true_mos": 3.5999999046325684
+  },
+  "sysc138b-utt4e6317e.wav": {
+    "predicted_mos": 1.6450214385986328,
+    "true_mos": 3.200000047683716
+  },
+  "sys50620-utt8e87007.wav": {
+    "predicted_mos": 1.4267301559448242,
+    "true_mos": 1.9285714626312256
+  },
+  "sys2dea8-utt964f214.wav": {
+    "predicted_mos": 2.921753406524658,
+    "true_mos": 3.0999999046325684
+  },
+  "sys0c3c7-utt6cf53f9.wav": {
+    "predicted_mos": 1.2495460510253906,
+    "true_mos": 1.2666666507720947
+  },
+  "sysc0232-utt8b2868c.wav": {
+    "predicted_mos": 2.3105154037475586,
+    "true_mos": 4.285714149475098
+  },
+  "sys8569c-utt985c40e.wav": {
+    "predicted_mos": 3.0620999336242676,
+    "true_mos": 4.5
+  },
+  "sys86a3b-utt2639006.wav": {
+    "predicted_mos": 1.355023980140686,
+    "true_mos": 3.1875
+  },
+  "sysc93c1-utta7fb8a0.wav": {
+    "predicted_mos": 2.1929216384887695,
+    "true_mos": 1.1666666269302368
+  },
+  "sys2dea8-uttb3e4e0e.wav": {
+    "predicted_mos": 2.917013645172119,
+    "true_mos": 2.9166667461395264
+  },
+  "sysc5b22-utta25dd33.wav": {
+    "predicted_mos": 2.4917209148406982,
+    "true_mos": 4.5333333015441895
+  },
+  "sysc138b-utt171eb1d.wav": {
+    "predicted_mos": 1.3902877569198608,
+    "true_mos": 2.7857143878936768
+  },
+  "sys2dea8-utt5b99eac.wav": {
+    "predicted_mos": 2.998940944671631,
+    "true_mos": 2.357142925262451
+  },
+  "sys8569c-utt94803ce.wav": {
+    "predicted_mos": 2.9463014602661133,
+    "true_mos": 4.461538314819336
+  },
+  "sys3bec5-utt742f0a3.wav": {
+    "predicted_mos": 3.1939990520477295,
+    "true_mos": 4.0
+  },
+  "sys1b29a-utte569d7f.wav": {
+    "predicted_mos": 1.8075631856918335,
+    "true_mos": 3.125
+  },
+  "sysc93c1-utt79d1693.wav": {
+    "predicted_mos": 1.9329524040222168,
+    "true_mos": 1.1875
+  },
+  "sysc5b22-utt6a3c5b0.wav": {
+    "predicted_mos": 2.794553518295288,
+    "true_mos": 4.5
+  },
+  "sys86a3b-uttfa6a2d4.wav": {
+    "predicted_mos": 2.0541815757751465,
+    "true_mos": 3.4666666984558105
+  },
+  "sys50620-uttda5f49b.wav": {
+    "predicted_mos": 1.587738037109375,
+    "true_mos": 2.5714285373687744
+  },
+  "sys1b29a-utt113c606.wav": {
+    "predicted_mos": 1.4466506242752075,
+    "true_mos": 2.615384578704834
+  },
+  "sysc0232-utt22a16c2.wav": {
+    "predicted_mos": 2.3557333946228027,
+    "true_mos": 4.199999809265137
+  },
+  "sys2dea8-uttbd55ff2.wav": {
+    "predicted_mos": 3.0494558811187744,
+    "true_mos": 2.357142925262451
+  },
+  "sysaefdf-utt04615a8.wav": {
+    "predicted_mos": 2.8187122344970703,
+    "true_mos": 4.214285850524902
+  },
+  "sysc0247-utt951570b.wav": {
+    "predicted_mos": 3.1923940181732178,
+    "true_mos": 4.333333492279053
+  },
+  "sys6aa80-utt64c8399.wav": {
+    "predicted_mos": 1.5217597484588623,
+    "true_mos": 2.769230842590332
+  },
+  "sysc0247-utt84219fa.wav": {
+    "predicted_mos": 3.475022077560425,
+    "true_mos": 4.166666507720947
+  },
+  "sys9900c-uttd2f9951.wav": {
+    "predicted_mos": 2.211965322494507,
+    "true_mos": 2.25
+  },
+  "sys0c3c7-utt373e65f.wav": {
+    "predicted_mos": 1.2962063550949097,
+    "true_mos": 1.4375
+  },
+  "sys6aa80-utt03f2193.wav": {
+    "predicted_mos": 1.818286418914795,
+    "true_mos": 3.6666667461395264
+  },
+  "syseb559-utte157d32.wav": {
+    "predicted_mos": 1.3007586002349854,
+    "true_mos": 3.4166667461395264
+  },
+  "sysc5b22-uttefde919.wav": {
+    "predicted_mos": 2.43841290473938,
+    "true_mos": 4.733333110809326
+  },
+  "sys288fc-utt9442a43.wav": {
+    "predicted_mos": 1.3563873767852783,
+    "true_mos": 1.25
+  },
+  "sys288fc-utt0dc5448.wav": {
+    "predicted_mos": 1.2824453115463257,
+    "true_mos": 1.307692289352417
+  },
+  "sys6aa80-utt7f9ecfd.wav": {
+    "predicted_mos": 1.530226707458496,
+    "true_mos": 2.357142925262451
+  },
+  "sys86a3b-utt3ce145b.wav": {
+    "predicted_mos": 1.3323307037353516,
+    "true_mos": 3.0
+  },
+  "sys0c3c7-utt353301f.wav": {
+    "predicted_mos": 1.3425215482711792,
+    "true_mos": 1.2142857313156128
+  },
+  "sys2dea8-uttb5dd8cb.wav": {
+    "predicted_mos": 2.8634772300720215,
+    "true_mos": 2.933333396911621
+  },
+  "sysc0232-utt463457f.wav": {
+    "predicted_mos": 2.6546361446380615,
+    "true_mos": 3.7857143878936768
+  },
+  "sysaefdf-utte2d5d04.wav": {
+    "predicted_mos": 2.362274408340454,
+    "true_mos": 4.1875
+  },
+  "sys25583-utt1bd3af8.wav": {
+    "predicted_mos": 2.8624520301818848,
+    "true_mos": 4.769230842590332
+  },
+  "sysc0232-utt6ed6ab5.wav": {
+    "predicted_mos": 2.637381076812744,
+    "true_mos": 4.5333333015441895
+  },
+  "sys2dea8-utt9542826.wav": {
+    "predicted_mos": 2.763284683227539,
+    "true_mos": 3.230769157409668
+  },
+  "sysc5b22-uttae3af1c.wav": {
+    "predicted_mos": 2.7172164916992188,
+    "true_mos": 4.538461685180664
+  },
+  "sys3bec5-uttbc487d3.wav": {
+    "predicted_mos": 2.919881820678711,
+    "true_mos": 4.230769157409668
+  },
+  "sys6aa80-utt91dcc36.wav": {
+    "predicted_mos": 1.317913293838501,
+    "true_mos": 3.4285714626312256
+  },
+  "sys3ac0c-utt60a9f33.wav": {
+    "predicted_mos": 1.5320641994476318,
+    "true_mos": 2.4000000953674316
+  },
+  "sysc0232-utt7f458d8.wav": {
+    "predicted_mos": 1.9287052154541016,
+    "true_mos": 4.461538314819336
+  },
+  "sys0c3c7-utt16da651.wav": {
+    "predicted_mos": 1.2967379093170166,
+    "true_mos": 1.4166666269302368
+  },
+  "sysc5b22-utta0141cf.wav": {
+    "predicted_mos": 2.8754196166992188,
+    "true_mos": 4.800000190734863
+  },
+  "sys1b29a-uttf2ad1a5.wav": {
+    "predicted_mos": 1.693582534790039,
+    "true_mos": 2.4285714626312256
+  },
+  "sys288fc-utt6250bee.wav": {
+    "predicted_mos": 1.4843136072158813,
+    "true_mos": 1.3125
+  },
+  "sys0c3c7-utt22cadcc.wav": {
+    "predicted_mos": 1.3223007917404175,
+    "true_mos": 1.307692289352417
+  },
+  "sysc0232-utt4da61a7.wav": {
+    "predicted_mos": 2.217845916748047,
+    "true_mos": 3.4285714626312256
+  },
+  "sys0c3c7-utt1aead9f.wav": {
+    "predicted_mos": 1.284793734550476,
+    "true_mos": 1.0
+  },
+  "sys1b29a-utt94b3e11.wav": {
+    "predicted_mos": 1.4404258728027344,
+    "true_mos": 3.230769157409668
+  },
+  "sysc138b-uttd7e66b7.wav": {
+    "predicted_mos": 1.3841121196746826,
+    "true_mos": 2.25
+  },
+  "sys50620-utt4b52563.wav": {
+    "predicted_mos": 1.9227638244628906,
+    "true_mos": 3.076923131942749
+  },
+  "sys3ac0c-utt6a41f8b.wav": {
+    "predicted_mos": 1.3194727897644043,
+    "true_mos": 2.384615421295166
+  }
+}
